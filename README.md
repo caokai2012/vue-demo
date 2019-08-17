@@ -16,9 +16,12 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
+
 #注意如果要登陆成功，需要启动服务器
 node post.js
+
+```
+
 #用户的登陆
 #超级管理员
 用户名：user  密码： 123456
